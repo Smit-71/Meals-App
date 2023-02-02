@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[Meal App Screenshots.pdf](https://github.com/Smit-71/Meals-App/files/10566810/Meal.App.Screenshots.pdf)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
